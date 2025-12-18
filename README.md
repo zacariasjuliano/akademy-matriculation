@@ -20,7 +20,7 @@ We hope you find **SAGE Education** motivating and inspiring, and we look forwar
 
 ---
 
-## ⚙️ Akademy Matriculation Module
+## Akademy Matriculation Module
 
 The **Akademy Matriculation (Enrollment Management)** module is a complementary module responsible for **managing school enrollments**, keeping all information organized and accessible to the institution.
 
