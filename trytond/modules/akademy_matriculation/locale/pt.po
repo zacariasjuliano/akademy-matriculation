@@ -72,15 +72,15 @@ msgstr "Matrícular"
 
 msgctxt "model:ir.ui.menu,name:akademy_associationdiscipline_wiz"
 msgid "Associar disciplina"
-msgstr "Associar disciplinas"
+msgstr "Associar Disciplinas"
 
 msgctxt "model:ir.ui.menu,name:akademy_application_avaliation_wiz"
 msgid "Avaliar candidatura"
-msgstr "Avaliar candidatura"
+msgstr "Avaliar Candidaturas"
 
 msgctxt "model:ir.ui.menu,name:akademy_matriculation_reference"
 msgid "Referência da matrícula"
-msgstr "Referência da matrícula"
+msgstr "Referência da Matrícula"
 
 msgctxt "field:party.party,candidates:"
 msgid "Candidato"
