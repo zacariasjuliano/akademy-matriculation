@@ -771,7 +771,7 @@ class ApplicationAvaliationCreateWzardStart(ModelView):
 
     applications_criteria = fields.Many2One(
         'akademy_configuration.application.criteria', 'Critério de admissão',       
-        help="Caro utilizador escolha o critério de admissão.")
+        required=True, help="Caro utilizador escolha o critério de admissão.")
 
 
 class ApplicationAvaliationCreateWzard(Wizard):
