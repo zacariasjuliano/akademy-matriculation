@@ -1,9 +1,8 @@
 # 🏫 SAGE Education - Institutional Management / ERP
 
-**Version:** 1.0  
+**Version:** 1.0.x  
 **Module:** Akademy Matriculation  
 **Developer:** Zacarias Juliano Capingala *(Homem Marketing)*  
-**Date:** 21/11/2025
 
 ---
 
@@ -41,5 +40,5 @@ It offers advanced tools for **enrollments, applications, and transfers**, allow
 If you encounter any errors or require technical support, please contact us through the channels below:
 
 - 📧 **E-mail:** [suporte@comunidadedosaber.ao](mailto:suporte@comunidadedosaber.ao)
-- 💬 **WhatsApp:** [+244 926 585 345](https://wa.me/244926585345)
+- 💬 **WhatsApp:** [+244 955 868 110](https://wa.me/244955868110)
 
